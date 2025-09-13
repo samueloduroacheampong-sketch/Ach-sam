@@ -49,7 +49,7 @@ This project highlights skills relevant for an **Incident Responder / SOC Analys
 ---
 
 ## Key Deliverables
-- **Incident Report (PDF):**   
+- **Incident Report (PDF):** Incident Report Draft Cybersecurity.docx   
 - **SIEM Detection Rule:** `detection-rules/ssh_bruteforce_success.yml`  
 - **Log Samples:** Sanitized SSH log snippets (`logs/`)  
 - **Screenshots:** Dashboards and alert views (`screenshots/`)  
